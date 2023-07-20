@@ -22,12 +22,9 @@ Media Probe is a unique application that offers an enjoyable and informative jou
 
 ## Screenshots
 <img src="https://github.com/enesakbal/Media-Probe/assets/60822023/f13c04f2-15e3-4bc5-8331-02604698048c" width=35%>
-<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/4c15025c-3f52-4df5-92ad-dbc18a0f7436" width=35%>
-<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/397bfeb1-5674-47f4-977e-9bcdc206c58a" width=35%>
-<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/f97e7556-874e-41ab-83c5-b85e398b1517" width=35%>
-<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/a7c63080-416a-47a1-b9a7-b2083bab04e8" width=35%>
-
-
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/6aedb521-b3e7-4fca-abe4-3a70a052dc01" width=35%>
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/5b24c5f0-d935-4bcc-8655-2b5ef566251a" width=35%>
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/178eebd6-f653-4276-ad62-5fd261c9d8c5" width=35%>
 
 
 
