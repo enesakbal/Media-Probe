@@ -6,7 +6,6 @@ import '../../config/gen/colors.gen.dart';
 
 class AppTheme {
   ThemeData get theme => ThemeData(
-        // fontFamily: FontFamily.gSKPrecision,
         appBarTheme: AppBarTheme(
           backgroundColor: AppColors.blue,
           centerTitle: false,
