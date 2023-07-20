@@ -18,7 +18,8 @@ Media Probe is a unique application that offers an enjoyable and informative jou
 
 
 ## Screenshots
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-20 at 15 34 11](https://github.com/enesakbal/Media-Probe/assets/60822023/4aab22a1-00a7-403b-9e76-c0ad8b086a8b)![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-20 at 15 34 19](https://github.com/enesakbal/Media-Probe/assets/60822023/4c15025c-3f52-4df5-92ad-dbc18a0f7436)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-20 at 15 34 21](https://github.com/enesakbal/Media-Probe/assets/60822023/397bfeb1-5674-47f4-977e-9bcdc206c58a)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-20 at 15 34 24](https://github.com/enesakbal/Media-Probe/assets/60822023/f97e7556-874e-41ab-83c5-b85e398b1517)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-20 at 15 34 28](https://github.com/enesakbal/Media-Probe/assets/60822023/690616ce-8c6c-4b6a-811b-b6975fadbc86)
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/4aab22a1-00a7-403b-9e76-c0ad8b086a8b" width=35%>
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/4c15025c-3f52-4df5-92ad-dbc18a0f7436" width=35%>
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/397bfeb1-5674-47f4-977e-9bcdc206c58a" width=35%>
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/f97e7556-874e-41ab-83c5-b85e398b1517" width=35%>
+<img src="https://github.com/enesakbal/Media-Probe/assets/60822023/690616ce-8c6c-4b6a-811b-b6975fadbc86" width=35%>
