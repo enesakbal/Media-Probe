@@ -3,18 +3,9 @@
 Media Probe is a unique application that offers an enjoyable and informative journey into the world of media.
 
 
-## Clone This Project
-
+## Clone Project
 ```bash
-  git clone https://github.com/enesakbal/taboo_word_maze.git
-```
-
-## Get All Data
-
-You can get all Taboo Data from my [Taboo Data](https://github.com/enesakbal/taboo_data) Repository.
-
-```bash
-  git clone https://github.com/enesakbal/taboo_data.git
+  git clone https://github.com/enesakbal/Media-Probe.git
 ```
 
 ## Packages and Technologies
