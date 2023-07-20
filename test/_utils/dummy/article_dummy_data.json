@@ -1,0 +1,64 @@
+{
+            "uri": "nyt://article/44ba4238-c4bb-5160-b56c-e363ba08b8b8",
+            "url": "https://www.nytimes.com/2023/05/03/sports/olympics/tori-bowie-dead.html",
+            "id": 100000008889174,
+            "asset_id": 100000008889174,
+            "source": "New York Times",
+            "published_date": "2023-05-03",
+            "updated": "2023-06-13 11:04:35",
+            "section": "Sports",
+            "subsection": "Olympics",
+            "nytdsection": "sports",
+            "adx_keywords": "Track and Field;Olympic Games (2016);Deaths (Obituaries);Running;Bowie, Tori (1990- );USA Track and Field;Brandon (Miss);Brazil",
+            "column": null,
+            "byline": "By Daniel E. Slotnik",
+            "type": "Article",
+            "title": "Tori Bowie, World Champion Sprinter, Is Dead at 32",
+            "abstract": "She won three Olympic medals in 2016 and the world championship the next year in an intense 100-meter dash.",
+            "des_facet": [
+                "Track and Field",
+                "Olympic Games (2016)",
+                "Deaths (Obituaries)",
+                "Running"
+            ],
+            "org_facet": [
+                "USA Track and Field"
+            ],
+            "per_facet": [
+                "Bowie, Tori (1990- )"
+            ],
+            "geo_facet": [
+                "Brandon (Miss)",
+                "Brazil"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tori Bowie after winning the silver medal in the 100-meter dash at the 2016 Olympics in Rio de Janeiro.",
+                    "copyright": "Adrian Dennis/Agence France-Presse &mdash; Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/04/multimedia/03bowie1-jhkq-print1/03bowie1-jhkq-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/04/multimedia/03bowie1-jhkq-print1/03bowie1-jhkq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/04/multimedia/03bowie1-jhkq-print1/03bowie1-jhkq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }

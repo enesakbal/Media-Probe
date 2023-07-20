@@ -1,0 +1,1152 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://interactive/56f794ef-9a38-528c-af07-657efa9da2a7",
+            "url": "https://www.nytimes.com/interactive/2023/upshot/spelling-bee-buddy.html",
+            "id": 100000008839905,
+            "asset_id": 100000008839905,
+            "source": "New York Times",
+            "published_date": "2023-04-10",
+            "updated": "2023-07-18 04:09:32",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "internal-open-access",
+            "column": null,
+            "byline": "By Neil Berg, Matthew Conlen, Josh Katz, Aaron Krolik, Eve Washington and Eden Weingart",
+            "type": "Interactive",
+            "title": "Spelling Bee Buddy: Personalized Hints That Update as You Play",
+            "abstract": "Customized hints that update based on your progress in today’s puzzle.",
+            "des_facet": [
+                "internal-open-access"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/03/31/us/beebuddy-promoimage/beebuddy-promoimage-thumbStandard-v4.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/03/31/us/beebuddy-promoimage/beebuddy-promoimage-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/03/31/us/beebuddy-promoimage/beebuddy-promoimage-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/44ba4238-c4bb-5160-b56c-e363ba08b8b8",
+            "url": "https://www.nytimes.com/2023/05/03/sports/olympics/tori-bowie-dead.html",
+            "id": 100000008889174,
+            "asset_id": 100000008889174,
+            "source": "New York Times",
+            "published_date": "2023-05-03",
+            "updated": "2023-06-13 11:04:35",
+            "section": "Sports",
+            "subsection": "Olympics",
+            "nytdsection": "sports",
+            "adx_keywords": "Track and Field;Olympic Games (2016);Deaths (Obituaries);Running;Bowie, Tori (1990- );USA Track and Field;Brandon (Miss);Brazil",
+            "column": null,
+            "byline": "By Daniel E. Slotnik",
+            "type": "Article",
+            "title": "Tori Bowie, World Champion Sprinter, Is Dead at 32",
+            "abstract": "She won three Olympic medals in 2016 and the world championship the next year in an intense 100-meter dash.",
+            "des_facet": [
+                "Track and Field",
+                "Olympic Games (2016)",
+                "Deaths (Obituaries)",
+                "Running"
+            ],
+            "org_facet": [
+                "USA Track and Field"
+            ],
+            "per_facet": [
+                "Bowie, Tori (1990- )"
+            ],
+            "geo_facet": [
+                "Brandon (Miss)",
+                "Brazil"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tori Bowie after winning the silver medal in the 100-meter dash at the 2016 Olympics in Rio de Janeiro.",
+                    "copyright": "Adrian Dennis/Agence France-Presse &mdash; Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/04/multimedia/03bowie1-jhkq-print1/03bowie1-jhkq-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/04/multimedia/03bowie1-jhkq-print1/03bowie1-jhkq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/04/multimedia/03bowie1-jhkq-print1/03bowie1-jhkq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1222a343-a7ec-5850-9b72-fef4687b43fd",
+            "url": "https://www.nytimes.com/2023/04/24/business/media/don-lemon-cnn.html",
+            "id": 100000008872080,
+            "asset_id": 100000008872080,
+            "source": "New York Times",
+            "published_date": "2023-04-24",
+            "updated": "2023-04-24 23:36:25",
+            "section": "Business",
+            "subsection": "Media",
+            "nytdsection": "business",
+            "adx_keywords": "Television;News and News Media;Appointments and Executive Changes;Lemon, Don;Harlow, Poppy;Collins, Kaitlan;Licht, Christopher A (1971- );CNN",
+            "column": null,
+            "byline": "By Michael M. Grynbaum, John Koblin and Benjamin Mullin",
+            "type": "Article",
+            "title": "Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’",
+            "abstract": "Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.",
+            "des_facet": [
+                "Television",
+                "News and News Media",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "CNN"
+            ],
+            "per_facet": [
+                "Lemon, Don",
+                "Harlow, Poppy",
+                "Collins, Kaitlan",
+                "Licht, Christopher A (1971- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Don Lemon during a Democratic presidential primary debate in 2019. He had a reputation as a fiery political commentator at CNN.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5b326663-7733-509f-b2a1-fdb20caf4ee4",
+            "url": "https://www.nytimes.com/2023/05/09/nyregion/george-santos-federal-charges.html",
+            "id": 100000008899496,
+            "asset_id": 100000008899496,
+            "source": "New York Times",
+            "published_date": "2023-05-09",
+            "updated": "2023-05-10 09:30:25",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Campaign Finance;Ethics and Official Misconduct;United States Politics and Government;Santos, George (1988- );House of Representatives;Republican Party;Justice Department;New York State;Long Island (NY);Queens (NYC)",
+            "column": null,
+            "byline": "By Michael Gold, William K. Rashbaum and Grace Ashford",
+            "type": "Article",
+            "title": "George Santos Is Said to Face Federal Criminal Charges",
+            "abstract": "The first-term Republican congressman’s extensive lies on the campaign trail and questionable financial dealings were the focus of criminal and ethical inquiries.",
+            "des_facet": [
+                "Campaign Finance",
+                "Ethics and Official Misconduct",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "House of Representatives",
+                "Republican Party",
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Santos, George (1988- )"
+            ],
+            "geo_facet": [
+                "New York State",
+                "Long Island (NY)",
+                "Queens (NYC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative George Santos has been charged by federal prosecutors.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/09/multimedia/09ny-santos-hfo-zgpb/09ny-santos-hfo-zgpb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/09/multimedia/09ny-santos-hfo-zgpb/09ny-santos-hfo-zgpb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/09/multimedia/09ny-santos-hfo-zgpb/09ny-santos-hfo-zgpb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b881b560-bcaa-559b-a42a-53aa901025e3",
+            "url": "https://www.nytimes.com/2023/05/02/world/asia/korea-us-comfort-women-sexual-slavery.html",
+            "id": 100000008801819,
+            "asset_id": 100000008801819,
+            "source": "New York Times",
+            "published_date": "2023-05-02",
+            "updated": "2023-05-03 09:46:24",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Women and Girls;Human Trafficking;Prostitution;Sex Crimes;Korean War;United States Defense and Military Forces;United States International Relations;Decisions and Verdicts;International Relations;Compensation for Damages (Law);South Korea",
+            "column": null,
+            "byline": "By Choe Sang-Hun and Jean Chung",
+            "type": "Article",
+            "title": "A Brutal Sex Trade Built for American Soldiers",
+            "abstract": "It’s a long-buried part of South Korean history: women compelled by force, trickery or desperation into prostitution, with the complicity of their own leaders.",
+            "des_facet": [
+                "Women and Girls",
+                "Human Trafficking",
+                "Prostitution",
+                "Sex Crimes",
+                "Korean War",
+                "United States Defense and Military Forces",
+                "United States International Relations",
+                "Decisions and Verdicts",
+                "International Relations",
+                "Compensation for Damages (Law)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "South Korea"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In Dongducheon, South Korea, north of Seoul, women forced to work as prostitutes to American soldiers in the decades after the Korean War were confined in this building when they were discovered to have a sexually transmitted disease.",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/10/multimedia/00skorea-comfortwomen-01-cmkw/00skorea-comfortwomen-01-cmkw-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/10/multimedia/00skorea-comfortwomen-01-cmkw/00skorea-comfortwomen-01-cmkw-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/10/multimedia/00skorea-comfortwomen-01-cmkw/00skorea-comfortwomen-01-cmkw-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9b034326-2da1-55b3-94cc-68bd693d05ae",
+            "url": "https://www.nytimes.com/2023/04/26/business/media/tucker-carlson-dominion-fox-news.html",
+            "id": 100000008874473,
+            "asset_id": 100000008874473,
+            "source": "New York Times",
+            "published_date": "2023-04-26",
+            "updated": "2023-05-01 13:53:45",
+            "section": "Business",
+            "subsection": "Media",
+            "nytdsection": "business",
+            "adx_keywords": "Boards of Directors;Television;News and News Media;Text Messaging;Libel and Slander;Suits and Litigation (Civil);Workplace Hazards and Violations;internal-sub-only;Carlson, Tucker;Murdoch, Lachlan;Murdoch, Rupert;Grossberg, Abby;Fox News Channel;Dominion Voting Systems Corp;Smartmatic SGO Group",
+            "column": null,
+            "byline": "By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt",
+            "type": "Article",
+            "title": "On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox",
+            "abstract": "Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.",
+            "des_facet": [
+                "Boards of Directors",
+                "Television",
+                "News and News Media",
+                "Text Messaging",
+                "Libel and Slander",
+                "Suits and Litigation (Civil)",
+                "Workplace Hazards and Violations",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Fox News Channel",
+                "Dominion Voting Systems Corp",
+                "Smartmatic SGO Group"
+            ],
+            "per_facet": [
+                "Carlson, Tucker",
+                "Murdoch, Lachlan",
+                "Murdoch, Rupert",
+                "Grossberg, Abby"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The discovery of the texts added pressure on the Fox leadership as it sought to find a way to avoid a trial in the Dominion defamation lawsuit.",
+                    "copyright": "Rebecca Noble for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26fox-tucker-tmhl/26fox-tucker-tmhl-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26fox-tucker-tmhl/26fox-tucker-tmhl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26fox-tucker-tmhl/26fox-tucker-tmhl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7ba2c5fe-93e2-5dad-b7a1-9dc37fe7a8e8",
+            "url": "https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html",
+            "id": 100000008879066,
+            "asset_id": 100000008879066,
+            "source": "New York Times",
+            "published_date": "2023-05-01",
+            "updated": "2023-06-28 18:21:43",
+            "section": "Technology",
+            "subsection": "",
+            "nytdsection": "technology",
+            "adx_keywords": "Artificial Intelligence;Computers and the Internet;ChatGPT;Search Engines;Content Type: Personal Profile;Research;internal-sub-only;audio-neutral-informative;audio-neutral-immersive;Hinton, Geoffrey E;Alphabet Inc;Google Inc;OpenAI Labs",
+            "column": null,
+            "byline": "By Cade Metz",
+            "type": "Article",
+            "title": "‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead",
+            "abstract": "For half a century, Geoffrey Hinton nurtured the technology at the heart of chatbots like ChatGPT. Now he worries it will cause serious harm.",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Computers and the Internet",
+                "ChatGPT",
+                "Search Engines",
+                "Content Type: Personal Profile",
+                "Research",
+                "internal-sub-only",
+                "audio-neutral-informative",
+                "audio-neutral-immersive"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Google Inc",
+                "OpenAI Labs"
+            ],
+            "per_facet": [
+                "Hinton, Geoffrey E"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Geoffrey Hinton is leaving Google so that he can freely share his concern that artificial intelligence could cause the world serious harm.",
+                    "copyright": "Chloe Ellingson for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/26/multimedia/01AI-HINTON/01AI-HINTON-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/26/multimedia/01AI-HINTON/01AI-HINTON-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/26/multimedia/01AI-HINTON/01AI-HINTON-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e746d641-22cb-5ae6-b9e4-02ca9e746692",
+            "url": "https://www.nytimes.com/2023/05/06/us/allen-mall-texas-shooting.html",
+            "id": 100000008895103,
+            "asset_id": 100000008895103,
+            "source": "New York Times",
+            "published_date": "2023-05-06",
+            "updated": "2023-05-07 17:07:57",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Allen, Tex, Mall Shooting (May 2023);Shopping Centers and Malls;Garcia, Mauricio (d 2023);Allen Premium Outlets (Allen, Tex);Allen (Tex)",
+            "column": null,
+            "byline": "By Mary Beth Gahan, Adam Goldman, Remy Tumin, Claire Fahy and Lauren McCarthy",
+            "type": "Article",
+            "title": "At Least 9 Dead, Including Gunman, in Shooting at Texas Mall",
+            "abstract": "A police officer on an unrelated assignment nearby rushed toward the sounds of gunfire and killed the gunman.",
+            "des_facet": [
+                "Allen, Tex, Mall Shooting (May 2023)",
+                "Shopping Centers and Malls"
+            ],
+            "org_facet": [
+                "Allen Premium Outlets (Allen, Tex)"
+            ],
+            "per_facet": [
+                "Garcia, Mauricio (d 2023)"
+            ],
+            "geo_facet": [
+                "Allen (Tex)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0b7d4b82-7ab9-52a6-8153-15cad859c454",
+            "url": "https://www.nytimes.com/2023/04/17/us/ralph-yarl-kansas-city-shooting.html",
+            "id": 100000008861832,
+            "asset_id": 100000008861832,
+            "source": "New York Times",
+            "published_date": "2023-04-17",
+            "updated": "2023-04-18 09:41:48",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Murders, Attempted Murders and Homicides;Black People;Yarl, Ralph;Kansas City (Mo)",
+            "column": null,
+            "byline": "By Livia Albeck-Ripka, Patrick LaForge and Christine Hauser",
+            "type": "Article",
+            "title": "84-Year-Old Is Charged in Shooting of Black Teenager Who Went to Wrong House",
+            "abstract": "Lawyers for the family of Ralph Yarl, 16, said he was critically injured when he was shot twice in Kansas City, Mo.",
+            "des_facet": [
+                "Murders, Attempted Murders and Homicides",
+                "Black People"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Yarl, Ralph"
+            ],
+            "geo_facet": [
+                "Kansas City (Mo)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/270746ef-e49e-5386-9308-066dea7d0b7c",
+            "url": "https://www.nytimes.com/2023/04/17/realestate/japan-empty-houses.html",
+            "id": 100000008801371,
+            "asset_id": 100000008801371,
+            "source": "New York Times",
+            "published_date": "2023-04-17",
+            "updated": "2023-04-22 00:39:38",
+            "section": "Real Estate",
+            "subsection": "",
+            "nytdsection": "real estate",
+            "adx_keywords": "Real Estate and Housing (Residential);Abandonment (Property);Rural Areas;Restoration and Renovation;internal-sub-only;Japan;Tokyo (Japan)",
+            "column": null,
+            "byline": "By Tim Hornyak",
+            "type": "Article",
+            "title": "Japan Has Millions of Empty Houses. Want to Buy One for $25,000?",
+            "abstract": "With a shrinking population and more than 10 million abandoned properties, the country is straining to match houses with curious buyers.",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Abandonment (Property)",
+                "Rural Areas",
+                "Restoration and Renovation",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Japan",
+                "Tokyo (Japan)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An akiya sat idle in Nagasaki, Japan, earlier this year.",
+                    "copyright": "Tim Hornyak",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/05/multimedia/05JAPANHOUSES-10-vfqc/05JAPANHOUSES-10-vfqc-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/05/multimedia/05JAPANHOUSES-10-vfqc/05JAPANHOUSES-10-vfqc-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/05/multimedia/05JAPANHOUSES-10-vfqc/05JAPANHOUSES-10-vfqc-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/032225d6-c551-5213-abf4-5c088cad364a",
+            "url": "https://www.nytimes.com/2023/04/18/opinion/heart-transplant-donor.html",
+            "id": 100000008856181,
+            "asset_id": 100000008856181,
+            "source": "New York Times",
+            "published_date": "2023-04-18",
+            "updated": "2023-05-17 16:37:38",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Organ Donation;Heart;Transplants;Cancer;Death and Dying;Silverstein, Amy (1963-2023)",
+            "column": null,
+            "byline": "By Amy Silverstein",
+            "type": "Article",
+            "title": "My Transplanted Heart and I Will Die Soon",
+            "abstract": "Organ transplantation is mired in stagnant science and antiquated, imprecise medicine that fails patients and organ donors.",
+            "des_facet": [
+                "Organ Donation",
+                "Heart",
+                "Transplants",
+                "Cancer",
+                "Death and Dying"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Silverstein, Amy (1963-2023)"
+            ],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8a6c64ef-66b4-52b7-b4fc-0919aee4b652",
+            "url": "https://www.nytimes.com/article/bud-light-boycott.html",
+            "id": 100000008855217,
+            "asset_id": 100000008855217,
+            "source": "New York Times",
+            "published_date": "2023-04-14",
+            "updated": "2023-06-30 11:41:15",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Boycotts;Advertising and Marketing;Transgender;Conservatism (US Politics);Beer;Social Media;Homosexuality and Bisexuality;Discrimination;Mulvaney, Dylan (1996- );Anheuser-Busch InBev NV",
+            "column": null,
+            "byline": "By Amanda Holpuch",
+            "type": "Article",
+            "title": "Behind the Backlash Against Bud Light",
+            "abstract": "After Dylan Mulvaney, the transgender influencer, promoted the beer on Instagram, conservatives called for a boycott. The fallout has grown to include the retailer Target and the country singer Garth Brooks.",
+            "des_facet": [
+                "Boycotts",
+                "Advertising and Marketing",
+                "Transgender",
+                "Conservatism (US Politics)",
+                "Beer",
+                "Social Media",
+                "Homosexuality and Bisexuality",
+                "Discrimination"
+            ],
+            "org_facet": [
+                "Anheuser-Busch InBev NV"
+            ],
+            "per_facet": [
+                "Mulvaney, Dylan (1996- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The country singer Garth Brooks at the Country Music Awards in May. He recently said his new bar in Nashville would serve Bud Light, among other beers. ",
+                    "copyright": "Theo Wargo/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/06/14/multimedia/14xp-budlight-promo-hbtm/14xp-budlight-promo-hbtm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/06/14/multimedia/14xp-budlight-promo-hbtm/14xp-budlight-promo-hbtm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/06/14/multimedia/14xp-budlight-promo-hbtm/14xp-budlight-promo-hbtm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c8a38afd-b675-5dc6-9e7b-c083cf0f96b6",
+            "url": "https://www.nytimes.com/2023/05/11/opinion/trump-cnn-town-hall.html",
+            "id": 100000008901782,
+            "asset_id": 100000008901782,
+            "source": "New York Times",
+            "published_date": "2023-05-11",
+            "updated": "2023-05-11 05:17:21",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "internal-sub-only-nl;Presidential Election of 2024;Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;Presidential Election of 2016;Trump, Donald J;Carroll, E Jean;Collins, Kaitlan;CNN",
+            "column": null,
+            "byline": "By Frank Bruni",
+            "type": "Article",
+            "title": "Trump’s ‘Stupid,’ ‘Stupid’ Town Hall",
+            "abstract": "And voters are worried about Biden’s mental acuity?",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Presidential Election of 2024",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Presidential Election of 2020",
+                "Presidential Election of 2016"
+            ],
+            "org_facet": [
+                "CNN"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Carroll, E Jean",
+                "Collins, Kaitlan"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/11/multimedia/11bruni-newsletter-alt-zbht/11bruni-newsletter-alt-zbht-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/11/multimedia/11bruni-newsletter-alt-zbht/11bruni-newsletter-alt-zbht-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/11/multimedia/11bruni-newsletter-alt-zbht/11bruni-newsletter-alt-zbht-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/3f77e850-ec3e-53bb-bc6b-77450ec16631",
+            "url": "https://www.nytimes.com/interactive/2023/dining/best-nyc-restaurants.html",
+            "id": 100000008859541,
+            "asset_id": 100000008859541,
+            "source": "New York Times",
+            "published_date": "2023-04-17",
+            "updated": "2023-04-24 10:11:39",
+            "section": "Food",
+            "subsection": "",
+            "nytdsection": "food",
+            "adx_keywords": "Restaurants;vis-design;internal-sub-only;New York City",
+            "column": null,
+            "byline": "By Pete Wells",
+            "type": "Interactive",
+            "title": "The 100 Best Restaurants in New York City",
+            "abstract": "Our critic, Pete Wells, ranks his favorites in all five boroughs.",
+            "des_facet": [
+                "Restaurants",
+                "vis-design",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "Adam Friedlander for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/17/multimedia/best-nyc-100-promo-actual-pftg/best-nyc-100-promo-actual-pftg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/17/multimedia/best-nyc-100-promo-actual-pftg/best-nyc-100-promo-actual-pftg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/17/multimedia/best-nyc-100-promo-actual-pftg/best-nyc-100-promo-actual-pftg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5cb8037a-30e0-52bb-92ac-e7f759093f49",
+            "url": "https://www.nytimes.com/2023/05/11/us/politics/trump-cnn-town-hall-takeaways.html",
+            "id": 100000008899192,
+            "asset_id": 100000008899192,
+            "source": "New York Times",
+            "published_date": "2023-05-11",
+            "updated": "2023-05-16 07:11:42",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "News and News Media;Rumors and Misinformation;United States Politics and Government;Presidential Election of 2020;Presidential Election of 2024;Storming of the US Capitol (Jan, 2021);Roe v Wade (Supreme Court Decision);Voter Fraud (Election Fraud);Abortion;New York State Criminal Case Against Trump (71543-23);Trump, Donald J;Collins, Kaitlan;CNN;Republican Party",
+            "column": null,
+            "byline": "By Shane Goldmacher and Maggie Haberman",
+            "type": "Article",
+            "title": "Five Takeaways From Trump’s Unruly CNN Town Hall",
+            "abstract": "Behaving as the Republicans’ de facto nominee, Donald Trump dug in on his 2020 lies and dodged on abortion. The G.O.P. audience cheered, but so did Democrats seeking 2024 fodder.",
+            "des_facet": [
+                "News and News Media",
+                "Rumors and Misinformation",
+                "United States Politics and Government",
+                "Presidential Election of 2020",
+                "Presidential Election of 2024",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Roe v Wade (Supreme Court Decision)",
+                "Voter Fraud (Election Fraud)",
+                "Abortion",
+                "New York State Criminal Case Against Trump (71543-23)"
+            ],
+            "org_facet": [
+                "CNN",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Collins, Kaitlan"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Reporters at St. Anselm College in Manchester, N.H., watched the live CNN town hall in a separate room at the event on Wednesday.",
+                    "copyright": "Joseph Prezioso/Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/10/multimedia/10pol-trump-townhall-takeaways-01/10pol-trump-townhall-screen-zjcq-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/10/multimedia/10pol-trump-townhall-takeaways-01/10pol-trump-townhall-screen-zjcq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/10/multimedia/10pol-trump-townhall-takeaways-01/10pol-trump-townhall-screen-zjcq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/eeff7193-884c-58b7-ba39-28236c0724e4",
+            "url": "https://www.nytimes.com/2023/05/04/magazine/celine-chanel-gucci-superfake-handbags.html",
+            "id": 100000008879332,
+            "asset_id": 100000008879332,
+            "source": "New York Times",
+            "published_date": "2023-05-04",
+            "updated": "2023-06-28 18:09:43",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Handbags and Purses;Counterfeit Merchandise;Fashion and Apparel;Luxury Goods and Services;Social Media;High Net Worth Individuals;internal-sub-only;Celine (Fashion Label);China",
+            "column": null,
+            "byline": "By Amy X. Wang and Grant Cornett",
+            "type": "Article",
+            "title": "Inside the Delirious Rise of ‘Superfake’ Handbags",
+            "abstract": "Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.",
+            "des_facet": [
+                "Handbags and Purses",
+                "Counterfeit Merchandise",
+                "Fashion and Apparel",
+                "Luxury Goods and Services",
+                "Social Media",
+                "High Net Worth Individuals",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Celine (Fashion Label)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cca003e0-1f93-5655-b1d7-f4e9abd17ead",
+            "url": "https://www.nytimes.com/2023/04/29/business/media/denver-airport.html",
+            "id": 100000008750175,
+            "asset_id": 100000008750175,
+            "source": "New York Times",
+            "published_date": "2023-04-29",
+            "updated": "2023-05-02 15:20:04",
+            "section": "Business",
+            "subsection": "Media",
+            "nytdsection": "business",
+            "adx_keywords": "Airports;Art;Advertising and Marketing;Conspiracy Theories;Rumors and Misinformation;internal-sub-only;Denver International Airport;Denver (Colo)",
+            "column": null,
+            "byline": "By Tiffany Hsu",
+            "type": "Article",
+            "title": "A Towering, Terrifying Demon Horse Isn’t Even the Weirdest Part",
+            "abstract": "The Denver airport is a magnet for conspiracy theories — and a case study in the line between mass delusion and fun.",
+            "des_facet": [
+                "Airports",
+                "Art",
+                "Advertising and Marketing",
+                "Conspiracy Theories",
+                "Rumors and Misinformation",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Denver International Airport"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Denver (Colo)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Mustang,” a 32-foot-tall sculpture by the artist Luis Jimenez that is also known as Blucifer, stands outside Denver International Airport. Some people wonder if it is actually the pale horse of the apocalypse (the one ridden by Death).",
+                    "copyright": "Benjamin Rasmussen for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/11/multimedia/00denver-airport-01-ftpj/00denver-airport-01-ftpj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/11/multimedia/00denver-airport-01-ftpj/00denver-airport-01-ftpj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/11/multimedia/00denver-airport-01-ftpj/00denver-airport-01-ftpj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/6839b488-de1b-5628-ab8b-8ecfcc41c2d2",
+            "url": "https://www.nytimes.com/interactive/2023/04/24/magazine/dr-fauci-pandemic.html",
+            "id": 100000008872675,
+            "asset_id": 100000008872675,
+            "source": "New York Times",
+            "published_date": "2023-04-24",
+            "updated": "2023-05-01 09:03:30",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Masks;Shutdowns (Institutional);Quarantines;Education (K-12);United States Politics and Government;Coronavirus Omicron Variant;internal-sub-only;Fauci, Anthony S;National Institute of Allergy and Infectious Diseases;Centers for Disease Control and Prevention",
+            "column": null,
+            "byline": "By David Wallace-Wells",
+            "type": "Interactive",
+            "title": "Dr. Fauci Looks Back: ‘Something Clearly Went Wrong’",
+            "abstract": "In his most extensive interview yet, Anthony Fauci wrestles with the hard lessons of the pandemic — and the decisions that will define his legacy.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Masks",
+                "Shutdowns (Institutional)",
+                "Quarantines",
+                "Education (K-12)",
+                "United States Politics and Government",
+                "Coronavirus Omicron Variant",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "National Institute of Allergy and Infectious Diseases",
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [
+                "Fauci, Anthony S"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "Philip Montgomery for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/30/magazine/30mag-fauci/30mag-fauci-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/30/magazine/30mag-fauci/30mag-fauci-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/30/magazine/30mag-fauci/30mag-fauci-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/82e7af99-ae45-51d5-adae-78b66c4ec36b",
+            "url": "https://www.nytimes.com/2023/04/23/well/eat/healthy-breakfast.html",
+            "id": 100000008843095,
+            "asset_id": 100000008843095,
+            "source": "New York Times",
+            "published_date": "2023-04-23",
+            "updated": "2023-05-19 17:15:29",
+            "section": "Well",
+            "subsection": "Eat",
+            "nytdsection": "well",
+            "adx_keywords": "Diet and Nutrition;Content Type: Service;Proteins;Food;Fiber (Dietary);Medicine and Health;internal-sub-only",
+            "column": null,
+            "byline": "By Rachel Rabkin Peachman and Bobbi Lin for The New York Times",
+            "type": "Article",
+            "title": "Secrets of a Healthy Breakfast",
+            "abstract": "The ideal breakfast is the one that makes you feel your best, experts say, though there are some important nutrients to keep in mind.",
+            "des_facet": [
+                "Diet and Nutrition",
+                "Content Type: Service",
+                "Proteins",
+                "Food",
+                "Fiber (Dietary)",
+                "Medicine and Health",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Bobbi Lin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/23/multimedia/23WELL-HEALTHY-BREAKFAST9-lgwc/23WELL-HEALTHY-BREAKFAST9-lgwc-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/23/multimedia/23WELL-HEALTHY-BREAKFAST9-lgwc/23WELL-HEALTHY-BREAKFAST9-lgwc-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/04/23/multimedia/23WELL-HEALTHY-BREAKFAST9-lgwc/23WELL-HEALTHY-BREAKFAST9-lgwc-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/365489ef-5bca-5849-b6fa-32c75cbe4702",
+            "url": "https://www.nytimes.com/2023/05/01/fashion/met-gala-2023-photos.html",
+            "id": 100000008838660,
+            "asset_id": 100000008838660,
+            "source": "New York Times",
+            "published_date": "2023-05-01",
+            "updated": "2023-05-04 11:07:14",
+            "section": "Fashion",
+            "subsection": "",
+            "nytdsection": "fashion",
+            "adx_keywords": "Met Gala;Fashion and Apparel;vis-photo",
+            "column": null,
+            "byline": "By The Styles Desk",
+            "type": "Article",
+            "title": "2023 Met Gala: Full Red Carpet Roundup",
+            "abstract": "Some of the biggest names from Hollywood, fashion, politics, media and music arrived to honor Karl Lagerfeld for fashion’s biggest night.",
+            "des_facet": [
+                "Met Gala",
+                "Fashion and Apparel",
+                "vis-photo"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "ASAP Rocky and Rihanna, in Valentino.",
+                    "copyright": "Jutharat Pinyodoonyachet for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/01/fashion/poupay-met-gala-2023-3297/poupay-met-gala-2023-3297-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/01/fashion/poupay-met-gala-2023-3297/poupay-met-gala-2023-3297-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/05/01/fashion/poupay-met-gala-2023-3297/poupay-met-gala-2023-3297-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
