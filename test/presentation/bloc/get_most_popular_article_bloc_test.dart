@@ -72,7 +72,7 @@ void main() async {
     wait: const Duration(milliseconds: 500),
     expect: () => <GetMostPopularArticlesState>[
       const GetMostPopularArticlesLoading(),
-      const GetMostPopularArticlesError('Something went wrong'),
+      const GetMostPopularArticlesError('Unexpected error occurred'),
     ],
     verify: (bloc) async {
       verify(mockArticleUsecases.getMostPopularArticles(period: PeriodEnums.daily)).called(1);

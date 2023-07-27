@@ -67,7 +67,7 @@ void main() {
   test(
     'when insert a data to local db is returns void ',
     () async {
-      when(dao.insertArticle(liteArticleEntityList.first));
+      when(dao.insertArticle(liteArticleEntityList.first)).thenAnswer((_) async => {});
 
       final response = await dao.insertArticle(liteArticleEntityList.first);
 
@@ -77,7 +77,7 @@ void main() {
   test(
     'when delete a data to local db is returns void ',
     () async {
-      when(dao.deleteArticle(liteArticleEntityList.first)).thenAnswer((_) async => []);
+      when(dao.deleteArticle(liteArticleEntityList.first)).thenAnswer((_) async => {});
 
       final response = await dao.deleteArticle(liteArticleEntityList.first);
 
